@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Jun/2021:21:52:06 +0400] "GET / HTTP/1.1" 200 1166 http-bio-8080-exec-2 2479
+127.0.0.1 - - [30/Jun/2021:21:52:06 +0400] "GET / HTTP/1.1" 200 1166 http-bio-8080-exec-1 2841
+127.0.0.1 - - [30/Jun/2021:21:52:07 +0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 10
+127.0.0.1 - - [30/Jun/2021:21:52:08 +0400] "GET /productPage.jsp?id=HLE HTTP/1.1" 200 382 http-bio-8080-exec-4 213
+127.0.0.1 - - [30/Jun/2021:21:52:09 +0400] "GET /product?productID=HLE HTTP/1.1" 200 446 http-bio-8080-exec-6 93
+127.0.0.1 - - [30/Jun/2021:21:52:14 +0400] "POST /product HTTP/1.1" 200 452 http-bio-8080-exec-7 3
+127.0.0.1 - - [30/Jun/2021:21:52:16 +0400] "GET /storeHomepage.jsp HTTP/1.1" 200 1166 http-bio-8080-exec-8 4
+127.0.0.1 - - [30/Jun/2021:21:52:17 +0400] "GET /productPage.jsp?id=HC HTTP/1.1" 200 362 http-bio-8080-exec-9 8
+127.0.0.1 - - [30/Jun/2021:21:52:18 +0400] "GET /product?productID=HC HTTP/1.1" 200 529 http-bio-8080-exec-10 9
+127.0.0.1 - - [30/Jun/2021:21:52:20 +0400] "GET /storeHomepage.jsp HTTP/1.1" 200 1166 http-bio-8080-exec-10 11
+127.0.0.1 - - [30/Jun/2021:21:52:20 +0400] "GET /productPage.jsp?id=AKy HTTP/1.1" 200 352 http-bio-8080-exec-10 6
+127.0.0.1 - - [30/Jun/2021:21:52:21 +0400] "GET /store-images/Keychain.jpg HTTP/1.1" 200 34759 http-bio-8080-exec-10 3
+127.0.0.1 - - [30/Jun/2021:21:52:22 +0400] "GET /product?productID=AKy HTTP/1.1" 200 599 http-bio-8080-exec-10 2
+127.0.0.1 - - [30/Jun/2021:21:52:26 +0400] "POST /product HTTP/1.1" 200 601 http-bio-8080-exec-10 3

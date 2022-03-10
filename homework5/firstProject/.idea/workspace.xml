@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b847b88-1a86-42e7-ada9-712b9360330b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/AccountManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/LoginListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/NewAccountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/ExistedUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/IncorrectUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/createAccount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/homepage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-05-lukamacho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/products.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/secondPart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/src/main/java/store/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/ArabicTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/ChineseTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/HebrewTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/HindiTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/Hoodie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/JapaneseTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/Keychain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/KoreanTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/Lanyard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/LimitedEdHood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/MiniHelmet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/Polo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/SealTShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/TShirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/Thermos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondPart/store-images/credits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModelListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/ArabicTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/ChineseTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/HebrewTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/HindiTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/Hoodie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/JapaneseTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/Keychain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/KoreanTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/Lanyard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/LimitedEdHood.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/MiniHelmet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/Polo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/SealTShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/TShirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/Thermos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store-images/credits.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uPCdI7IoPZj2lGnZ2svk2FgYtU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../secondPart" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AccountManagerTest">
+    <configuration name="AccountManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="servlets" />
+      <option name="MAIN_CLASS_NAME" value="servlets.AccountManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountManagerTest.additionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="servlets" />
+      <option name="MAIN_CLASS_NAME" value="servlets.AccountManagerTest" />
+      <option name="METHOD_NAME" value="additionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountManagerTest.basicAccountExistenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="servlets" />
+      <option name="MAIN_CLASS_NAME" value="servlets.AccountManagerTest" />
+      <option name="METHOD_NAME" value="basicAccountExistenceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountManagerTest.checkUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="servlets" />
+      <option name="MAIN_CLASS_NAME" value="servlets.AccountManagerTest" />
+      <option name="METHOD_NAME" value="checkUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstProject [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <configuration name="AccountManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="servlets" />
+      <option name="MAIN_CLASS_NAME" value="servlets.AccountManagerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AccountManagerTest" />
+        <item itemvalue="JUnit.AccountManagerTest" />
+        <item itemvalue="JUnit.AccountManagerTest.additionTest" />
+        <item itemvalue="JUnit.AccountManagerTest.checkUserTest" />
+        <item itemvalue="JUnit.AccountManagerTest.basicAccountExistenceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b847b88-1a86-42e7-ada9-712b9360330b" name="Default Changelist" comment="" />
+      <created>1624557924972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624557924972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/firstProject$AccountManagerTest.ic" NAME="AccountManagerTest Coverage Results" MODIFIED="1624647322378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>servlets.*</FILTER>
+    </SUITE>
+  </component>
+</project>
